@@ -20,7 +20,7 @@ The 'ChiaMovePlots' helps to move plots in right way. Following are implemented:
 ## Precondition
 The 'ChiaMovePlots' written in [AutoIt](https://www.autoitscript.com) and to use it you will have to [install](https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.exe) and compile by yourself.
 ## Installation
-1) [Download](https://github.com/GregoryGum/ChiaMovePlots/blob/main/ChiaMovePlots.zip?raw=true) and unzip archive
+1) [Download](https://github.com/GregoryGum/ChiaMovePlots/blob/main/ChiaMovePlots.zip?raw=true) and unzip archive (Windows only)
 2) To create exe file, mouse right click on 'ChiaMovePlots.au3' file and select 'Compile Script' option from menu
 ## Actions
 During script execution you will able do use following options:
